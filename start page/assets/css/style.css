@@ -29,6 +29,18 @@ justify-content: center;
 text-align: center;
 }
 
+.instructions{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 20vh;
+    width: 90vw;
+    padding: 20px;
+    margin: auto;
+
+}
+
 
 /* code from css tricks.com */
 a { 
