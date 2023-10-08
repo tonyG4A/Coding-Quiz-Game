@@ -26,3 +26,13 @@ var questions = [
     },
 ];
 
+var choiceEL = document.querySelector("#choice")
+var cuurentTime = document.querySelector("timer-counter")
+var timer = document.querySelector("start-timer")
+var secondsLeft = 50
+var penalty = 10
+var score = 0
+
+timer.addEventListener("click", function () {
+    
+}
